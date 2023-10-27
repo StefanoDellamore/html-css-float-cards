@@ -5,3 +5,22 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+/*Inizio titolo*/
+
+.container-title {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.title {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/*Fine titolo*/
